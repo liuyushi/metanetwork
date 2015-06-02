@@ -1,2 +1,2 @@
 # metanetwork
-Ben Logsdon's metanetwork
+Ben Logsdon's metanetwork for Training Purpose
